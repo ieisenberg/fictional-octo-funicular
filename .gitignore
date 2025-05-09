@@ -1,0 +1,4 @@
+venv/
+*.asc
+__pycache__
+*.log
